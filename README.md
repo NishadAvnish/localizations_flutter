@@ -1,4 +1,4 @@
-# localization
+# Localization/Multi-Language Application
 
 A new Flutter project.
 
