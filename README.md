@@ -4,12 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a tutorial to set localization in any flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+If you don't get it follow my Medium.com blog
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://medium.com/@avnishkumar1st/localization-multi-language-in-flutter-2587f07b7710
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
